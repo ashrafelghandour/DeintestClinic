@@ -1,0 +1,12 @@
+E:\DentistProject - Copy\DentistDataAccessLeyer\bin\Debug\net9.0\DentistDataAccessLeyer.deps.json
+E:\DentistProject - Copy\DentistDataAccessLeyer\bin\Debug\net9.0\DentistDataAccessLeyer.dll
+E:\DentistProject - Copy\DentistDataAccessLeyer\bin\Debug\net9.0\DentistDataAccessLeyer.pdb
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.csproj.AssemblyReference.cache
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.AssemblyInfoInputs.cache
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.AssemblyInfo.cs
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.csproj.CoreCompileInputs.cache
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.dll
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net9.0\refint\DentistDataAccessLeyer.dll
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.pdb
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net9.0\ref\DentistDataAccessLeyer.dll

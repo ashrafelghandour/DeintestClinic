@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DentistBusinessLeyer\DentistBusinessLeyer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Bunifu.Licensing">
+      <HintPath>..\..\DentistProject\dentist\packages\Bunifu.Licensing.6.0.4\lib\net472\Bunifu.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\DentistProject\dentist\Bunifu_UI_v1.5.3_x86\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+ 
+  <ItemGroup>
+    <Compile Update="UCExtraInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCPeronInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

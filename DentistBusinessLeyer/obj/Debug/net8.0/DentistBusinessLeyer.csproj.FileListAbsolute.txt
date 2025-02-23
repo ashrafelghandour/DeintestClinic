@@ -1,0 +1,45 @@
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.AssemblyInfoInputs.cache
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.AssemblyInfo.cs
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.csproj.CoreCompileInputs.cache
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\bin\Debug\net8.0\DentistBusinessLeyer.deps.json
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\bin\Debug\net8.0\DentistBusinessLeyer.dll
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\bin\Debug\net8.0\DentistBusinessLeyer.pdb
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.dll
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.pdb
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.csproj.AssemblyReference.cache
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistB.55A688C5.Up2Date
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.dll
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\refint\DentistBusinessLeyer.dll
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.pdb
+E:\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\ref\DentistBusinessLeyer.dll
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\bin\Debug\net8.0\DentistBusinessLeyer.deps.json
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\bin\Debug\net8.0\DentistBusinessLeyer.dll
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\bin\Debug\net8.0\DentistBusinessLeyer.pdb
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.dll
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.pdb
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.csproj.AssemblyReference.cache
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.AssemblyInfoInputs.cache
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.AssemblyInfo.cs
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.csproj.CoreCompileInputs.cache
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistB.55A688C5.Up2Date
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.dll
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\refint\DentistBusinessLeyer.dll
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.pdb
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistBusinessLeyer\obj\Debug\net8.0\ref\DentistBusinessLeyer.dll
+E:\DentistProject - Copy\DentistBusinessLeyer\bin\Debug\net8.0\DentistBusinessLeyer.deps.json
+E:\DentistProject - Copy\DentistBusinessLeyer\bin\Debug\net8.0\DentistBusinessLeyer.dll
+E:\DentistProject - Copy\DentistBusinessLeyer\bin\Debug\net8.0\DentistBusinessLeyer.pdb
+E:\DentistProject - Copy\DentistBusinessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.dll
+E:\DentistProject - Copy\DentistBusinessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.pdb
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.csproj.AssemblyReference.cache
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.AssemblyInfoInputs.cache
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.AssemblyInfo.cs
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.csproj.CoreCompileInputs.cache
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net8.0\DentistB.55A688C5.Up2Date
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.dll
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net8.0\refint\DentistBusinessLeyer.dll
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net8.0\DentistBusinessLeyer.pdb
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net8.0\ref\DentistBusinessLeyer.dll

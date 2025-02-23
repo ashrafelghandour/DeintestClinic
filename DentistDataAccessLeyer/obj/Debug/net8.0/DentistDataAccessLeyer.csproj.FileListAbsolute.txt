@@ -1,0 +1,48 @@
+E:\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.AssemblyInfoInputs.cache
+E:\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.AssemblyInfo.cs
+E:\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.csproj.CoreCompileInputs.cache
+E:\DentistProject\WepAPIDentist\DentistDataAccessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.deps.json
+E:\DentistProject\WepAPIDentist\DentistDataAccessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.dll
+E:\DentistProject\WepAPIDentist\DentistDataAccessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.pdb
+E:\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.csproj.AssemblyReference.cache
+E:\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.dll
+E:\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\refint\DentistDataAccessLeyer.dll
+E:\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.pdb
+E:\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\ref\DentistDataAccessLeyer.dll
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistDataAccessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.deps.json
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistDataAccessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.dll
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistDataAccessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.pdb
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.csproj.AssemblyReference.cache
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.AssemblyInfoInputs.cache
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.AssemblyInfo.cs
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.csproj.CoreCompileInputs.cache
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.dll
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\refint\DentistDataAccessLeyer.dll
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.pdb
+C:\Users\COMPULAB\Desktop\DentistProject\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\ref\DentistDataAccessLeyer.dll
+E:\DentistProject - Copy\WepAPIDentist\DentistDataAccessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.deps.json
+E:\DentistProject - Copy\WepAPIDentist\DentistDataAccessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.dll
+E:\DentistProject - Copy\WepAPIDentist\DentistDataAccessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.pdb
+E:\DentistProject - Copy\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.csproj.AssemblyReference.cache
+E:\DentistProject - Copy\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DentistProject - Copy\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.AssemblyInfoInputs.cache
+E:\DentistProject - Copy\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.AssemblyInfo.cs
+E:\DentistProject - Copy\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.csproj.CoreCompileInputs.cache
+E:\DentistProject - Copy\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.dll
+E:\DentistProject - Copy\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\refint\DentistDataAccessLeyer.dll
+E:\DentistProject - Copy\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.pdb
+E:\DentistProject - Copy\WepAPIDentist\DentistDataAccessLeyer\obj\Debug\net8.0\ref\DentistDataAccessLeyer.dll
+E:\DentistProject - Copy\DentistDataAccessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.deps.json
+E:\DentistProject - Copy\DentistDataAccessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.dll
+E:\DentistProject - Copy\DentistDataAccessLeyer\bin\Debug\net8.0\DentistDataAccessLeyer.pdb
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.csproj.AssemblyReference.cache
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.AssemblyInfoInputs.cache
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.AssemblyInfo.cs
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.csproj.CoreCompileInputs.cache
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.dll
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net8.0\refint\DentistDataAccessLeyer.dll
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net8.0\DentistDataAccessLeyer.pdb
+E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net8.0\ref\DentistDataAccessLeyer.dll

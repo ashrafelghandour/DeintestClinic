@@ -1,0 +1,15 @@
+E:\DentistProject - Copy\DentistBusinessLeyer\bin\Debug\net9.0\DentistBusinessLeyer.deps.json
+E:\DentistProject - Copy\DentistBusinessLeyer\bin\Debug\net9.0\DentistBusinessLeyer.dll
+E:\DentistProject - Copy\DentistBusinessLeyer\bin\Debug\net9.0\DentistBusinessLeyer.pdb
+E:\DentistProject - Copy\DentistBusinessLeyer\bin\Debug\net9.0\DentistDataAccessLeyer.dll
+E:\DentistProject - Copy\DentistBusinessLeyer\bin\Debug\net9.0\DentistDataAccessLeyer.pdb
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.csproj.AssemblyReference.cache
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.AssemblyInfoInputs.cache
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.AssemblyInfo.cs
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.csproj.CoreCompileInputs.cache
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\DentistB.55A688C5.Up2Date
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.dll
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\refint\DentistBusinessLeyer.dll
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.pdb
+E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\ref\DentistBusinessLeyer.dll

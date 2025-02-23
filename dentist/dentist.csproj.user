@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="forms\FrmAddNewPatinet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmSendSMSandWhatsapp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmPatientsMenegment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\Log.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
