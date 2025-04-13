@@ -224,6 +224,7 @@
             btDelete.Size = new Size(163, 80);
             btDelete.TabIndex = 126;
             btDelete.TextAlign = ContentAlignment.MiddleCenter;
+            btDelete.Click += btDelete_Click;
             // 
             // btUpdate
             // 
@@ -250,6 +251,7 @@
             btUpdate.TabIndex = 125;
             btUpdate.TabStop = false;
             btUpdate.TextAlign = ContentAlignment.MiddleCenter;
+            btUpdate.Click += btUpdate_Click;
             // 
             // pictureBox2
             // 

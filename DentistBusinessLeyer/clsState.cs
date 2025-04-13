@@ -1,3 +1,4 @@
+using System.Collections.Immutable;
 using System.Data;
 using DentistDataAccessLeyer;
 
@@ -23,10 +24,10 @@ namespace DentistBusinessLeyer
        public StateDTO PationtDTO {get {return new StateDTO(this.ID,this.StateName); }}
          
        
-       public static int AddStateName(string state_Name){
-        return clsStateData.AddStateName(state_Name);
+       public static bool AddStateName(string state_Name){
+        return clsStateData.AddStateName(state_Name) >=1 ? true : false;
        }
-       public static SortedSet<string> GetAllStates(){
+       public static IEnumerable<string> GetAllStates(){
         return clsStateData.GetAllStates();
        }
 

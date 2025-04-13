@@ -20,14 +20,10 @@
     </Reference>
   </ItemGroup>
 
- 
-  <ItemGroup>
-    <Compile Update="UCExtraInfo.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Update="UCPeronInfo.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
+	
+	<ItemGroup>
+    <Compile Update="UCExtraInfo.cs" />
+    <Compile Update="UCPeronInfo.cs" />
   </ItemGroup>
 
 </Project>

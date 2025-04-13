@@ -303,6 +303,7 @@
             txtEmail.Name = "txtEmail";
             txtEmail.Size = new Size(194, 23);
             txtEmail.TabIndex = 5;
+            txtEmail.TextChanged += txtEmail_TextChanged;
             txtEmail.Validating += txtEmail_Validating;
             // 
             // label2

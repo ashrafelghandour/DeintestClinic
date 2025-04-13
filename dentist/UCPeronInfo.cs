@@ -22,24 +22,24 @@ namespace dentist
         }
 
         private byte[] GetPhoto()
-       {
-        //    Resources.Female_512;
+        {
+            //    Resources.Female_512;
 
-        //    Resources._1077012;
+            //    Resources._1077012;
 
 
-            if (pbPersonImage.Image != Resources.Female_512|| pbPersonImage.Image != Resources._1077012)
+            if (pbPersonImage.Image != Resources.Female_512 || pbPersonImage.Image != Resources._1077012)
             {
-              MemoryStream stream = new MemoryStream();
-              pbPersonImage.Image.Save(stream, pbPersonImage.Image.RawFormat);
-              return stream.GetBuffer();
+                MemoryStream stream = new MemoryStream();
+                pbPersonImage.Image.Save(stream, pbPersonImage.Image.RawFormat);
+                return stream.GetBuffer();
             }
             return null;
         }
         public PersonDTO GetPersonInfo()
         {
             return new PersonDTO(0,
-             txtFirstName.Text.Trim()+' '+ txtLastName.Text.Trim(), DateTime.Parse(dtpDateOfBirth.Text), txtPhone.Text.Trim()
+             txtFirstName.Text.Trim() + ' ' + txtLastName.Text.Trim(), DateTime.Parse(dtpDateOfBirth.Text), txtPhone.Text.Trim()
              , rbFemale.Checked, txtEmail.Text.Trim(),
              GetPhoto());
         }
@@ -165,6 +165,11 @@ namespace dentist
         }
 
         private void pbPersonImage_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtEmail_TextChanged(object sender, EventArgs e)
         {
 
         }

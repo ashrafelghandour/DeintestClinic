@@ -62,7 +62,7 @@ using System.Windows.Forms;
          }
 
        }
-    public static bool GetStoredCredential(ref string Username, ref string Password)
+      public static bool GetStoredCredential(ref string Username, ref string Password)
         {
             //this will get the stored username and password and will return true if found and false if not found.
             try

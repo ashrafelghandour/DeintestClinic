@@ -312,6 +312,7 @@
             chkRememberMe.TabIndex = 25;
             chkRememberMe.Text = "Remember Me";
             chkRememberMe.UseVisualStyleBackColor = true;
+            chkRememberMe.CheckedChanged += chkRememberMe_CheckedChanged;
             // 
             // chbShowPass
             // 

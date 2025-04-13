@@ -124,7 +124,7 @@ namespace DentistBusinessLeyer
 
             PatinetDTO patinetDTO = clsPatientData.AddNewPatient(PatinetDTO);
 
-            if (patinetDTO != null && patinetDTO.PatientID!=0)
+            if (patinetDTO != null)
             {
                 this.PersonID = patinetDTO.PersonID;
                 this.Name = patinetDTO.Name;

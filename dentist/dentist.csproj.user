@@ -4,17 +4,23 @@
     <Compile Update="forms\FrmAddNewPatinet.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="forms\FrmSendSMSandWhatsapp.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="forms\FrmHome.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="forms\FrmPatientsMenegment.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="forms\FrmSendSMSandWhatsapp.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="forms\Log.cs">
       <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UCExtraInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCPeronInfo.cs">
+      <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>
 </Project>

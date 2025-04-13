@@ -13,3 +13,19 @@ E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLe
 E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\refint\DentistBusinessLeyer.dll
 E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.pdb
 E:\DentistProject - Copy\DentistBusinessLeyer\obj\Debug\net9.0\ref\DentistBusinessLeyer.dll
+E:\Dentist\DentistBusinessLeyer\bin\Debug\net9.0\DentistBusinessLeyer.deps.json
+E:\Dentist\DentistBusinessLeyer\bin\Debug\net9.0\DentistBusinessLeyer.dll
+E:\Dentist\DentistBusinessLeyer\bin\Debug\net9.0\DentistBusinessLeyer.pdb
+E:\Dentist\DentistBusinessLeyer\bin\Debug\net9.0\DentistDataAccessLeyer.dll
+E:\Dentist\DentistBusinessLeyer\bin\Debug\net9.0\DentistDataAccessLeyer.pdb
+E:\Dentist\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.csproj.AssemblyReference.cache
+E:\Dentist\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dentist\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.AssemblyInfoInputs.cache
+E:\Dentist\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.AssemblyInfo.cs
+E:\Dentist\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.csproj.CoreCompileInputs.cache
+E:\Dentist\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.sourcelink.json
+E:\Dentist\DentistBusinessLeyer\obj\Debug\net9.0\DentistB.55A688C5.Up2Date
+E:\Dentist\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.dll
+E:\Dentist\DentistBusinessLeyer\obj\Debug\net9.0\refint\DentistBusinessLeyer.dll
+E:\Dentist\DentistBusinessLeyer\obj\Debug\net9.0\DentistBusinessLeyer.pdb
+E:\Dentist\DentistBusinessLeyer\obj\Debug\net9.0\ref\DentistBusinessLeyer.dll

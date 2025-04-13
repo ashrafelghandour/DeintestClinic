@@ -1,13 +1,10 @@
 
 using Microsoft.Data.SqlClient;
 using System.Data;
-using System.Numerics;
-using System.Reflection;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+
 
 namespace DentistDataAccessLeyer
 {
-
     public class PatinetDTO : PersonDTO
     {
         public PatinetDTO(PersonDTO personDTO , string note, int? patientID,  string patientTC, int state, DateTime patientdate, float cost, float paied, float remind)
@@ -44,53 +41,57 @@ namespace DentistDataAccessLeyer
 
     public class clsPatientData  
     {
-       
 
-        public static PatinetDTO AddNewPatient(PatinetDTO patient){
 
-            PatinetDTO NewPatient = patient;
+        public static PatinetDTO AddNewPatient(PatinetDTO patient) {
 
-            try{
-              
-               using (SqlConnection con = new SqlConnection(clsUtility._ConnectionString)) {
-        
-                 using(SqlCommand cmd = new SqlCommand("SP_AddNewPatientAndPerson", con))
-                 {
-                  
-                 
 
-                    cmd.CommandType = CommandType.StoredProcedure;
+
+            try
+            {
+
+                using (SqlConnection con = new SqlConnection(clsUtility._ConnectionString))
+                {
+
+                    using (SqlCommand cmd = new SqlCommand("SP_AddNewPatientAndPerson", con))
+                    {
+
+
+
+                        cmd.CommandType = CommandType.StoredProcedure;
 
                         cmd.Parameters.AddWithValue("@Name", patient.Name);
                         cmd.Parameters.AddWithValue("@Email", patient.Email);
                         cmd.Parameters.AddWithValue("@BirthDay", patient.BirthDay);
                         cmd.Parameters.AddWithValue("@Gonder", patient.gender);
 
-                        if (patient.Image.Count()!=0 && patient.Image != null)
+                        if (patient.Image.Count() != 0 && patient.Image != null)
 
                             cmd.Parameters.AddWithValue("@Image", patient.Image);
                         else
-                        cmd.Parameters.AddWithValue("@Image", System.DBNull.Value);
+                            cmd.Parameters.AddWithValue("@Image", System.DBNull.Value);
 
 
 
                         cmd.Parameters.AddWithValue("@Phone", patient.Phone);
 
 
-                        cmd.Parameters.AddWithValue("@PatientTC",patient.PatientTC);
-                    cmd.Parameters.AddWithValue("@StateID", patient.StateID);
-                    cmd.Parameters.AddWithValue("@Patientdate", patient.Patientdate);
-                    cmd.Parameters.AddWithValue("@cost", patient.cost);
-                    cmd.Parameters.AddWithValue("@Paied", patient.Paied);
-                    cmd.Parameters.AddWithValue("@Remind", patient.Remind);
-                       cmd.Parameters.AddWithValue("@PatientNote", patient.Notes); 
+                        cmd.Parameters.AddWithValue("@PatientTC", patient.PatientTC);
+                        cmd.Parameters.AddWithValue("@StateID", patient.StateID);
+                        cmd.Parameters.AddWithValue("@Patientdate", patient.Patientdate);
+                        cmd.Parameters.AddWithValue("@cost", patient.cost);
+                        cmd.Parameters.AddWithValue("@Paied", patient.Paied);
+                        cmd.Parameters.AddWithValue("@Remind", patient.Remind);
+                        cmd.Parameters.AddWithValue("@PatientNote", patient.Notes);
 
 
-                    con.Open();
+                        con.Open();
 
-                        using (SqlDataReader red = cmd.ExecuteReader()) {
+                        using (SqlDataReader red = cmd.ExecuteReader())
+                        {
 
-                            if (red.Read()) {
+                            if (red.Read())
+                            {
 
                                 byte[] image = (red[4] == DBNull.Value) ? null : (byte[])red[4];
 
@@ -117,25 +118,90 @@ namespace DentistDataAccessLeyer
 
 
 
-                            
+
                             }
 
                         }
 
-                   
-                    
-                 }
-               }
-                
+
+
+                    }
+                }
+            }
+
+
+
+            //    using (var context = new AppDBContext())
+            //    {
+
+
+
+            //        //var Name = new SqlParameter("@Name", SqlDbType.NVarChar).Value = patient.Name;
+
+            //        //var Email = new SqlParameter("@Email", SqlDbType.NVarChar).Value = patient.Email;
+            //        //var BirthDay = new SqlParameter("@BirthDay", SqlDbType.DateTime).Value = patient.BirthDay;
+            //        //var Gonder = new SqlParameter("@Gonder", SqlDbType.Bit).Value = patient.gender;
+
+            //        //var Image =  patient.Image.Count() != 0 && patient.Image != null ?
+            //        //    new SqlParameter("@Image", SqlDbType.Image).Value = patient.Image : new SqlParameter("@Image", SqlDbType.Image).Value = DBNull.Value;
+
+            //        //var Phone= new SqlParameter("@Phone", SqlDbType.VarChar).Value = patient.Phone;
+            //        //var PatientTC = new SqlParameter("@PatientTC", SqlDbType.VarChar).Value = patient.PatientTC;
+            //        //var StateID = new SqlParameter("@StateID", SqlDbType.Int).Value = patient.StateID;
+            //        //var Patientdate = new SqlParameter("@Patientdate", SqlDbType.DateTime).Value = patient.Patientdate;
+            //        //var cost = new SqlParameter("@cost", SqlDbType.Float).Value = patient.cost;
+            //        //var Paied = new SqlParameter("@Paied", SqlDbType.Float).Value = patient.Paied;
+            //        //var Remind = new SqlParameter("@Remind", SqlDbType.Float).Value = patient.Remind;
+            //        //var PatientNote = new SqlParameter("@PatientNote", SqlDbType.VarChar).Value = patient.Notes;
+
+
+            //        var patientWithAdd = context.PatientWithAdd.FromSqlRaw("EXEC SP_AddNewPatientAndPerson @Name,@Email ,@BirthDay ,@Gonder,@Image ,@Phone ,@PatientTC ,@StateID ,@Patientdate,@cost ,@Paied,@Remind ,@PatientNote", new SqlParameter("Name",patient.Name),
+
+            //        new SqlParameter("Email",patient.Email) ,
+            //       new SqlParameter("BirthDay", patient.BirthDay ),
+            //        new SqlParameter("Gonder",patient.gender),
+
+            //       new SqlParameter("Image",patient.Image),
+
+            //      new SqlParameter("Phone",  patient.Phone),
+            //        new SqlParameter("PatientTC",  patient.PatientTC),
+            //        new SqlParameter("StateID",  patient.StateID),
+            //         new SqlParameter("Patientdate", patient.Patientdate),
+            //        new SqlParameter("cost",(float)(double) patient.cost),
+            //        new SqlParameter("Paied", (float)(double)patient.Paied),
+            //       new SqlParameter("Remind", (float)(double) patient.Remind),
+            //        new SqlParameter("PatientNote", patient.Notes)).ToList().First();
+
+            //         return new PatinetDTO(new PersonDTO(patientWithAdd.PersonID,
+            //                            patientWithAdd.Name,
+            //                               patientWithAdd.BirthDay,
+            //                              patientWithAdd.Phone,
+            //                              patientWithAdd.gender,
+            //                             patientWithAdd.Email,
+            //                            patientWithAdd.Image)
+            //                              ,
+            //                             patientWithAdd.PatientNote,
+            //                            patientWithAdd.PatientID,
+            //                            patientWithAdd.PatientTC,
+            //                           patientWithAdd.StateID,
+            //                       patientWithAdd.PatientDate,
+            //                          (float)patientWithAdd.cost,
+
+            //                          (float)patientWithAdd.Paied,
+            //                          (float)patientWithAdd.Remind
+
+            //                             );
+            //    }
+            //}
+            catch
+            {
+                return null;
 
             }
-            catch{
-                return NewPatient;
+            return null;
+        }
 
-            }
-             return NewPatient;
-           
-       }
+
 
 
 

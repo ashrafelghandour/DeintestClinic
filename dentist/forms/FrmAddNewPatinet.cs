@@ -150,7 +150,7 @@ namespace dentist.forms
 
         private void _FillStatesInComoboBox()
         {
-            SortedSet<string> ssSates = clsState.GetAllStates();
+            IEnumerable<string> ssSates = clsState.GetAllStates();
 
             foreach (string row in ssSates)
             {
@@ -160,7 +160,7 @@ namespace dentist.forms
         private void FrmAddNewPatinet_Load(object sender, EventArgs e)
         {
             _ResetDefualtValues();
-            if (_Mode ==    ClsPerson.enMode.Update)
+            if (_Mode == ClsPerson.enMode.Update)
                 _LoadData();
         }
 
@@ -195,7 +195,7 @@ namespace dentist.forms
             }
 
 
-            ClsPatinet _clsPatinet = new ClsPatinet(ucExtraInfo1.ucPatientInfo1.GetPersonInfo(), _Patinet, _Mode);
+            ClsPatinet _clsPatinet = new ClsPatinet(ucExtraInfo1.ucPatientInfo1.GetPersonInfo(), ucExtraInfo1.GetPatinet(), _Mode);
 
             if (_clsPatinet.Save())
             {
@@ -228,13 +228,23 @@ namespace dentist.forms
 
         }
 
-       
+
 
         private void btSearch_Click(object sender, EventArgs e)
         {
             Form form = new FrmAddUpdatePatinet(int.Parse(tbPatientid.Text));
             this.Hide();
             form.ShowDialog();
+        }
+
+        private void btUpdate_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btDelete_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

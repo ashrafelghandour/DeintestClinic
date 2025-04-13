@@ -29,7 +29,7 @@ namespace dentist.forms
 
         private void btSave_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
 
         private void cbFilterBy_SelectedIndexChanged(object sender, EventArgs e)

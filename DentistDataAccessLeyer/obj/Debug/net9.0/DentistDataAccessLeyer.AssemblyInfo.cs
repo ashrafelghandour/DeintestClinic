@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DentistDataAccessLeyer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d17c64b3716a684fe5a92f1211c6cf2231fecc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("DentistDataAccessLeyer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DentistDataAccessLeyer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

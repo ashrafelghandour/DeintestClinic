@@ -10,3 +10,18 @@ E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAcce
 E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net9.0\refint\DentistDataAccessLeyer.dll
 E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.pdb
 E:\DentistProject - Copy\DentistDataAccessLeyer\obj\Debug\net9.0\ref\DentistDataAccessLeyer.dll
+E:\Dentist\DentistDataAccessLeyer\bin\Debug\net9.0\DentistDataAccessLeyer.deps.json
+E:\Dentist\DentistDataAccessLeyer\bin\Debug\net9.0\DentistDataAccessLeyer.dll
+E:\Dentist\DentistDataAccessLeyer\bin\Debug\net9.0\DentistDataAccessLeyer.pdb
+E:\Dentist\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.csproj.AssemblyReference.cache
+E:\Dentist\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dentist\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.AssemblyInfoInputs.cache
+E:\Dentist\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.AssemblyInfo.cs
+E:\Dentist\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.csproj.CoreCompileInputs.cache
+E:\Dentist\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.sourcelink.json
+E:\Dentist\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.dll
+E:\Dentist\DentistDataAccessLeyer\obj\Debug\net9.0\refint\DentistDataAccessLeyer.dll
+E:\Dentist\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.pdb
+E:\Dentist\DentistDataAccessLeyer\obj\Debug\net9.0\ref\DentistDataAccessLeyer.dll
+E:\Dentist\DentistDataAccessLeyer\bin\Debug\net9.0\DentistDataAccessLeyer.runtimeconfig.json
+E:\Dentist\DentistDataAccessLeyer\obj\Debug\net9.0\DentistDataAccessLeyer.genruntimeconfig.cache

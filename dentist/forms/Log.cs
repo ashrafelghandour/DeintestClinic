@@ -138,7 +138,7 @@ namespace dentist
 
 
 
-     
+
 
         private void chbShowPass_CheckedChanged(object sender, EventArgs e)
         {
@@ -164,6 +164,11 @@ namespace dentist
             DialogResult result = MessageBox.Show("Are You Sure to Close Programm ?", "Close", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (result == DialogResult.Yes)
                 timer1.Start();
+        }
+
+        private void chkRememberMe_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 
